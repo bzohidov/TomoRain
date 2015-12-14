@@ -10,28 +10,9 @@
 #    2. Function "sort_anten":
 #       Takes only chosen columns (details) of antenna information.
 #       Then, it unifies connected antenna pairs(link) including each
-#       antenna detail. Antenna details are given below in "Antenna details".
+#       antenna detail.
 #    3. Function "save_anten":
 #       Saves connected antenna (link) details
-#
-# Antenna Details:
-#    Each antenna has the following details:
-#    1. CAF         scalar;  Number which shows digital name of antenna.
-#    2. Type:       string;  Transmitter(Trans) and Receiver (Rec).
-#    3. Position:   list;    [x, y] Cartesian coordinate system.
-#    4. Frequency:  scalar;  Operate frequency (unit is [MHz] for our file).
-#    5. Azimuth:    scalar;  Azimuth angle.
-#    6. Place:      string;  Place name where antenna is located.
-#    7. Company:    string;  Company name which owns the antenna.
-#
-# Example for one sorted antenna pair (link) details:
-#    Link = [ Caf, Frequency, Recx, Recy, Trx, Try, RecAzimuth, TrAzimuth
-#             RecPlace, TrPlace, RecCompany, TrCompany ]
-#
-# NOTICE: In order to find connected Transmitter and Receiver pairs
-#        sorting procedure are performed by comparing only
-#        their "frequency" and "CAF". However, this sorting can include
-#        considering "azimuth" angle by choosing "with_azim = True".
 #-------------------------------------------------------------------------------
 
 
