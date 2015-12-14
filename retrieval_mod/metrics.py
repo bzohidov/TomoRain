@@ -2,9 +2,9 @@
 # Name:     metrics.py
 #
 # Purpose:  Compute statistical metrics for estimation purpose.
-#           Formulas, i.e. nrmse, nbias were obtained from the paper below.
-#
-#           Paper name:
+#           
+#           Notice:
+#           Functions, i.e. "nrmse", "nbias" were obtained from the paper below.
 #           Zinevich et al. "Estimation of rainfall fields using commercial
 #           microwave communication networks of variable density", 2008.
 #-------------------------------------------------------------------------------
