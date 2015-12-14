@@ -2,9 +2,9 @@
 
 TomoRain is a software package for applying cellular networks for rainfall monitoring over urban areas.
 
-This software package is being developed at CRENAU/IRSTV under the supervision of Hervé Andrieu, Myriam Servières, Nicolas Normand.
+This software package is being developed at CRENAU/IRSTV under the supervision of [Hervé Andrieu][1], [Myriam Servières][2], [Nicolas Normand][3].
 
-For details on the algorithms used, please go to the links ([here][1]).
+For details on the algorithms used, please go to the links ([here][4]).
 
 #Requirements
 
@@ -17,16 +17,19 @@ For details on the algorithms used, please go to the links ([here][1]).
 - PIL    (1.1.7)
 
 #Getting started
-See the [wiki][2]
+See the [wiki][5]
 
 #Licence
 
-See [LICENCE][3].
+See [LICENCE][6].
 
 #Contributors
 
 Bahtiyor Zohidov
 
-[1]: http://adsabs.harvard.edu/abs/2014EGUGA..1611911Z
-[2]: https://github.com/bzohidov/TomoRain/wiki
-[3]: https://github.com/bzohidov/TomoRain/blob/master/LICENCE
+[1]: http://www.irstv.fr/fr/annuaire/179?view=liste
+[2]: http://www.crenau.archi.fr/?q=fr/myriam-servi-res
+[3]: http://www.irccyn.ec-nantes.fr/fr/annuaire?action=details&uid=normand
+[4]: http://adsabs.harvard.edu/abs/2014EGUGA..1611911Z
+[5]: https://github.com/bzohidov/TomoRain/wiki
+[6]: https://github.com/bzohidov/TomoRain/blob/master/LICENCE
