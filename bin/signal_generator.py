@@ -1,12 +1,6 @@
 #-------------------------------------------------------------------------------
 # Name:        signal_generate.py
 # Purpose:     Generate Electromagnetic Signal between Transmitter and Receiver
-#
-# Author:      Bahtiyor
-#
-# Created:     16-11-2014
-# Copyright:   (c) Bahtiyor 2014
-# Licence:     <MIT>
 #-------------------------------------------------------------------------------
 
 import pandas as pn
