@@ -1,0 +1,7 @@
+#Tmp files
+*.pyc
+*.html
+*.js
+*.png
+*.css
+*.txt
